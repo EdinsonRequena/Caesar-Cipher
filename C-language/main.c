@@ -1,6 +1,10 @@
 /*
 
-Caeser Cipher by Edinson Requena
+Caeser Cipher.
+
+"Caesar's code, is one of the simplest and most widely known encryption techniques. 
+It is a type of substitution cipher in which each letter in the plaintext is 
+replaced by a letter some fixed number of positions down the alphabet." - Wikipedia.
 
 Github: edinsonrequena
 Twitter: requenaea
@@ -9,6 +13,7 @@ Email: edinsonrequena@protonmail.com
 Instagram: edinsonrequena
 
 */
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
